@@ -1,0 +1,70 @@
+.logo{
+    width: 80px;margin-top: 30px;border-radius: 40px;
+}
+.logo_2{
+    width: 100px;margin-top: 30px;border-radius: 50px;
+}
+body{
+    text-align: center;
+    background-color: lavender;
+}
+.login_div{
+background-color:white;
+width: 720px;
+height: 720px;
+
+}
+
+#div_1{
+    padding-right: -900px;
+}
+
+#div_2{
+    padding-top: 150px;
+}
+
+#div_3{
+    background-image: linear-gradient(to bottom, #add2ee, #58aae0, #3994c9, #2a84b4, #1a7daa);
+    height: 720px;
+    
+}
+
+.hd1{
+    padding-bottom: 300px;
+}
+#icon-2{
+    width: 160px;margin-top: 30px;border-radius: 100px;
+}
+#div_5{
+    margin-bottom: 800px;
+    width: 90px;
+    height: 90px;
+  background-color: chocolate;
+}
+#span_text_1{
+    font-size:xx-large;
+}
+body{
+    font-family: 'Comfortaa', cursive;
+}
+#login_button{
+    width: 40%;border-radius: 15px;
+}
+#imdyk{
+    width: 50px;border-radius: 40px;   
+}
+#dyk{
+    background-color: lightseagreen;
+    width: 400px;
+    height: 200px;
+}
+#txt_1 {
+    width: 100px;
+    height: 100px;
+    transition: width 2s;
+  }
+  
+  #txt_1:hover {
+    width: 300px;
+  }
+
